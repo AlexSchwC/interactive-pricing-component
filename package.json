@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.1.4"
+  },
+  "name": "interactive-pricing-component",
+  "description": "![Design preview for the Interactive pricing component coding challenge](./design/desktop-preview.jpg)",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css": "npx tailwindcss -i ./styles/main.css -o ./styles/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexSchwC/interactive-pricing-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexSchwC/interactive-pricing-component/issues"
+  },
+  "homepage": "https://github.com/AlexSchwC/interactive-pricing-component#readme"
+}
